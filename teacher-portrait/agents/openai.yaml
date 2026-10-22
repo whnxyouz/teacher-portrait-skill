@@ -1,0 +1,4 @@
+interface:
+  display_name: "老师形象重构与透明抠图"
+  short_description: "保留老师本人特征，扩展膝盖构图、优化自然肤质并交付透明背景海报人物图"
+  default_prompt: "使用 $teacher-portrait 处理上传的老师照片，保留本人特征和合适着装，扩到膝盖上方并输出透明PNG。"
